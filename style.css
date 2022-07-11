@@ -116,7 +116,7 @@ aside #lo
 footer{
     width: 100%;
     height: 50px;
-    background-color: aquamarine;
+    background-color: white;
     display: flex;
     justify-content: space-between;
     align-items: center;
